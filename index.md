@@ -9,7 +9,7 @@
 
 
 <div>
-<img src="/my.png" alt="">
+<img src="my.png" alt="">
 </div>
 
 
