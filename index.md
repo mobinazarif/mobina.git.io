@@ -8,7 +8,7 @@
 
 
 <div>
-<i><img src="Desktop/my.png" alt=""></i>
+<i><img src="my.png" alt=""></i>
 </div>
 
 
